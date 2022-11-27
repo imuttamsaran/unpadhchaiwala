@@ -220,7 +220,7 @@
                 }
             }
             
-            @media (max-width: 400px) {
+            @media (max-width: 425px) {
                 .Social-media {
                     display: flex;
                     flex-wrap: wrap;
